@@ -1,11 +1,11 @@
 PROPRIETARY LICENSE — ALL RIGHTS RESERVED
 
-Copyright (c) 2026 SChat. All rights reserved.
+Copyright (c) 2026 Prospective. All rights reserved.
 
-This repository, including all documentation, protocol specifications, source code, binaries, user interface designs, logos, and brand assets ("Software and Materials"), is the exclusive intellectual property of SChat.
+This license governs all products, software, artificial intelligence models, model weights, architectures, APIs, research publications, documentation, user interfaces, logos, trademarks, and brand assets ("Prospective Products and Materials") created, owned, or distributed by Prospective, whether currently existing or developed in the future (including, without limitation, the SCAI model family and all subsequent releases).
 
-No license or right is granted to any person or entity, whether by implication, estoppel, or otherwise, to copy, modify, distribute, sublicense, decompile, reverse-engineer, or use the Software and Materials, in whole or in part, for any commercial or non-commercial purpose without the prior express written permission of SChat.
+No license or right is granted to any person or entity, whether by implication, estoppel, or otherwise, to copy, reproduce, modify, distribute, sublicense, decompile, reverse-engineer, extract weights, train third-party models on, or use any Prospective Products and Materials, in whole or in part, for any commercial or non-commercial purpose without the prior express written permission of Prospective.
 
-"SChat" and "Safety Chat" are proprietary identifiers of SChat.
+"Prospective", all associated logos, and all product and model names introduced by Prospective are the exclusive proprietary identifiers and intellectual property of Prospective.
 
-THE SOFTWARE AND MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+ALL PROSPECTIVE PRODUCTS AND MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL PROSPECTIVE BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF ITS PRODUCTS OR MATERIALS.
